@@ -15,13 +15,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day4_ClassVsInstance", "Day
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day5_Loops", "Day5_Loops\Day5_Loops.csproj", "{69AC3357-98D5-4842-85DD-ADDB76D1E3FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6_LetsReview", "Day6_LetsReview\Day6_LetsReview.csproj", "{754DAF2A-40F4-47D8-A6AB-710647C14F67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day6_LetsReview", "Day6_LetsReview\Day6_LetsReview.csproj", "{754DAF2A-40F4-47D8-A6AB-710647C14F67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7_Arrays", "Day7_Arrays\Day7_Arrays.csproj", "{CD92E0A8-2862-4099-96A6-042B2C5F08BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day7_Arrays", "Day7_Arrays\Day7_Arrays.csproj", "{CD92E0A8-2862-4099-96A6-042B2C5F08BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day8_DictionariesAndMaps", "Day8_DictionariesAndMaps\Day8_DictionariesAndMaps.csproj", "{E479F921-5BC9-4C98-A707-296220B30AEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day8_DictionariesAndMaps", "Day8_DictionariesAndMaps\Day8_DictionariesAndMaps.csproj", "{E479F921-5BC9-4C98-A707-296220B30AEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day9_Recursion3", "Day9_Recursion3\Day9_Recursion3.csproj", "{DEBF5232-CE34-46D4-8A9E-706A31597E4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day9_Recursion3", "Day9_Recursion3\Day9_Recursion3.csproj", "{DEBF5232-CE34-46D4-8A9E-706A31597E4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day10_BinaryNumbers", "Day10_BinaryNumbers\Day10_BinaryNumbers.csproj", "{998E09C7-0861-4D95-8F6B-A1EFAE4B270D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{DEBF5232-CE34-46D4-8A9E-706A31597E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEBF5232-CE34-46D4-8A9E-706A31597E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEBF5232-CE34-46D4-8A9E-706A31597E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{998E09C7-0861-4D95-8F6B-A1EFAE4B270D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998E09C7-0861-4D95-8F6B-A1EFAE4B270D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998E09C7-0861-4D95-8F6B-A1EFAE4B270D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998E09C7-0861-4D95-8F6B-A1EFAE4B270D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
