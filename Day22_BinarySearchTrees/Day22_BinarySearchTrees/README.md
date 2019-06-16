@@ -12,7 +12,7 @@ ITree, EmptyBST, NonEmptyBST implements a BST design.
 
 A heap is data structure made up of a parent and children
 
-![image01.png](.\Assets\image01.png)
+![image01.png](Assets/image01.png)
 
 In the above; 
  - Node A is a parent of both B and C
@@ -25,7 +25,7 @@ We work with 2 types of heaps, **Min-Heap** and **Max-Heap**
 
 This is where the smallest element is the root and all children must be less than their parents.
 
-![image02.png](.\Assets\image02.png)
+![image02.png](Assets/image02.png)
 
 Note; the relationship is between the child and it's parent only.
 There are no conditions to be kept between a child and it's sibling.
@@ -34,7 +34,7 @@ There are no conditions to be kept between a child and it's sibling.
 
 This is where the largest element is the root and all children are less than their parents.
 
-![image03.png](.\Assets\image03.png)
+![image03.png](Assets/image03.png)
 
 Likewise, siblings needn't hold any relationship.
 
@@ -42,7 +42,7 @@ Likewise, siblings needn't hold any relationship.
 
 Here the values in the node's represent an index.
 
-![image04.png](.\Assets\image04.png)
+![image04.png](Assets/image04.png)
 
 We can find a nodes children using a simple algorithm on the parents node;
 
@@ -78,6 +78,6 @@ An extension of the heap, a BST meets some additional criteria
  - Left child node is less than the parent node
  - Right child node is greater than the parent node
 
-![image05.png](.\Assets\image05.png)
+![image05.png](Assets/image05.png)
 
 Used for *Path Finding Algorithms*, breadth-first and depth-first search.
