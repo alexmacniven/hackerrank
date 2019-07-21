@@ -9,4 +9,4 @@ And my solution, written in C# is right [here](./Day28_Regex_Patterns/Program.cs
  - C#'s System.Text.RegularExpressions
  - Verbatim string literals
  - String `replace` and `match` with regex
- - Using List<T>'s Sort method
+ - Using `List<T>`'s Sort method
